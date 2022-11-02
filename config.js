@@ -1,5 +1,5 @@
 /**
-   * Create By THE JO BOT
+   * Create By Virtex Bot
    * Base by Dika Ardnt
 */
 
@@ -17,14 +17,14 @@ global.APIKeys = {
 }
 
 
-global.ownername = 'THE JO BOT'
+global.ownername = 'Virtex Bot'
 global.autorecording = false //status auto merekam ( auto record )
 global.autoketik = false //status auto mengetik (auto typing)
 global.available = false //status online (online)
 // Other
-global.owner = ['60177426853','60177426853','60177426853']
-global.premium = ['60177426853']
-global.packname = 'The Jo Bot'
+global.owner = ['6281269024490']
+global.premium = ['6281269024490']
+global.packname = 'Virtex Bot'
 global.author = 'WhatsApp Bot'
 global.wlcm = []
 global.sessionName = 'session'
